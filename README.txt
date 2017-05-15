@@ -26,4 +26,4 @@ lr.generate_example()
 
 OR
 
-See the function generate_example() in LWR.py.
+See the function generate_example() in logistic_regression.py.
